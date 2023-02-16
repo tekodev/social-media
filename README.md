@@ -2,18 +2,15 @@
 
 ## Project setup
 ```
-npm install
+make install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+make run
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+make build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
